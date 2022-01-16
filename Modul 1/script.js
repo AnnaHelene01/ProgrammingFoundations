@@ -357,3 +357,63 @@ if (isNaN(chosenVoltage)) {
 console.log("TASKS MODULE 1.4")
 // Spørsmål 1
 console.log("Exercise 1");
+//a) Make a for loop counting from 0 through 10 (including the 10). Console log out the numbers.
+//b) Make a for loop counting from 6 through 11 (including the 11). Console log out the numbers.
+//c) Make a for loop counting from 10 through 1 (including the 1). Console log out the numbers.
+
+
+// Spørsmål 2
+console.log("Exercise 2");
+//a) Make a while loop counting from 0 through 10 (including the 10). Console log out the numbers.
+//b) Make a while loop counting from 6 through 11 (including the 11). Console log out the numbers.
+//c) Make a while loop counting from 10 through 1 (including the 1). Console log out the numbers.
+
+
+// Spørsmål 3
+console.log("Exercise 3");
+//a) Make a for loop counting from 1 through 10. Console log out the numbers, except for 5 (let the loop skip over 5).
+//b) Make a while loop counting down from 10 through 0, but stops after 2 is reached. Console log out the numbers (10-2).
+
+
+// Spørsmål 4
+console.log("Exercise 4");
+//a) Make a do...while loop counting down from 10 through 5. Console log out the numbers.
+//b) What becomes the output if you set the counter to 0 before the loop?
+
+
+// Spørsmål 5
+console.log("Exercise 5");
+//Make a for loop that counts just the even numbers (0, 2, 4, 6, ...) from 0 through 20. Console log out the numbers.
+
+
+// Spørsmål 6
+console.log("Exercise 6");
+//Use a for...of loop and console log out the diffent cats with the same lead text for each breed.
+const catBreeds = ["Abyssinian", "Balinese", "Birman", "Chartreux", "Egyptian Mau", "Maine Coon", "Norwegian Forest Cat", "Ragdoll", "Siamese", "Siberian"];
+
+
+
+// Spørsmål 7 - Level 2
+console.log("Exercise 7 - Level 2");
+//Using a double loop, make the following pattern:
+//*
+//**
+//***
+//****
+//*****
+
+
+// Spørsmål 8 - Level 2
+console.log("Exercise 8 - Level 2");
+//Fizz buzz is a group word game for children to teach them about division. 
+//Players take turns to count incrementally, replacing any number divisible by 
+//three with the word "fizz", and any number divisible by five with the word "buzz".
+
+//Players generally sit in a circle. The player designated to go first says the number "1", 
+//and the players then count upwards in turn. However, any number divisible by three is 
+//replaced by the word fizz and any number divisible by five by the word buzz. 
+//Numbers divisible by 15 become fizz buzz.
+//a) Using a for loop, make a variant of Fizz buzz where you count from 1 through 20 
+//and add each number to a text string as you count. In the end console log out the answer string.
+
+//b) Make a variant where you count from 1 through 30, and buzz is used for numbers divisible by 7 (not 5).
