@@ -312,19 +312,23 @@ switch (month) {
     case "december":
     case "january":
     case "february":
-        console.log("It's Winter!"); break;
+        console.log("It's Winter!"); 
+    break;
     case "march":
     case "april":
     case "may":
-        console.log("It's Spring!"); break; 
+        console.log("It's Spring!"); 
+    break; 
     case "june":
     case "july":
     case "august":
-        console.log("It's Summer!"); break;  
+        console.log("It's Summer!"); 
+    break;  
     case "september":
     case "october":
     case "november":
-        console.log("It's Autumn!"); break;
+        console.log("It's Autumn!"); 
+    break;
     default:
         console.log("That's not a month...");
 }
